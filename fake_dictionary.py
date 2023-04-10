@@ -6,7 +6,6 @@
 
 
 
-
 #########################################
 ## THE FAKE DICTIONARY
 #########################################
@@ -751,3 +750,253 @@ print('eehuerhefhefheugjhrg')
 print('2eiwwhehfhjhgjhgrjghrg')
 print('efehfehfeufheuheufheughrg')
 print('eehfehfeuheughrguh')
+print('eejfeijfirigrig')
+print('ghh4uhtueheh')
+print('efefjeifjeifjeijei')
+print('eefeijfiejfeijfijejekjgrg')
+print('efuehfefhigjiejfiejgiejeijf')
+print('efiejfiejgiejfijgirg')
+print('wdiwfiejgiejfiejef')
+print('efuehfeufhueheg')
+print('efehuehguhgirhgirg')
+print('rti9rgrgjrhr')
+print('efejfejfeijfeijgrig')
+print('efefefrgiefiejfiwjdirjgiejfrjg')
+print('uehfhiefiwjdiwjfiejfijf')
+print('wiehfieiefiehiehfiehgiehfirhgiehg')
+print('iefjiejfiwjiejfiejgiegjiejfeijg')
+print('efiejgiejiejhijfiejgiej')
+print('efiejfiejgeijeifjeigjjeg')
+print('eeejierieiejnegjejgjfiejfrghehfe')
+print()
+print('efiehfiegiefiehfeiheigh')
+print('efheifheigheiheifheihgiegh')
+print('efehgiehgiehiehgiehiejfiejeijeigj')
+print('efeigjeigjeijfiejfiejfjef')
+print('efiejfijgjiejfiejfiefj')
+print('efehfuhguehfhguhg')
+print('eiejfiejgiejgeiiejg')
+print('efehiefiejfijdiejfiehgehg')
+print('fiejiejijeifeigrigjrigj')
+print()
+print('efiejgiejfiejgiejfiejfiwjdorjgrg')
+print('efiejfoejgojdoejgojowjrg')
+print('efiejfiejgijwdijegoejg')
+print('efiejfiejgojforjgojojgoejejg')
+print('towrojgiejfirhgiehg')
+print('eifjeifjegijefijeigjeofjeogjwofjef')
+print('eihrghjriheihrighirhg')
+
+
+
+
+
+
+##################################################################
+## SECTION: VARIABLES AND STUFF
+##################################################################
+
+
+
+
+
+
+def fake_dictionary_list():
+    var1='efefiejgiejfiejf'
+    var2='efeitjerowjdjeieieigj'
+    var3='efehfhiehfiejfijfiwdjwidjjfef'
+    var4='efejfiejfiejiejfdjowjdowjaoj'
+    var5='efuhgueeufhefhwifhskhekheg'
+    var6='effjefjfiefijfiejfijdijfiejfsjfsf'
+    var7='rttefiefjfsjfhwifhsfhsjfehf'
+    var8='efehfahdsihjfhejfhjfhehf'
+    var9='efheifhaidheifheihfeifhwihfi'
+    var10='efefheifheifhihfishfieheifh'
+    var_list=[var1,var2,var3,var4,var5,var6,
+    var7,var8,var9,var10]
+    for i in var_list:
+      print(i)
+
+
+
+fake_dictionary_list()
+
+
+
+###########################################################
+## SECTION: MORE VARIABLES
+###########################################################
+
+
+
+
+
+
+var1_1='efehfuhuwdheuhwireifhefih'
+var1_2='efiefjiefjiefjiefjeigjeijegegwdijeifjei'
+var1_3='efefuhfefhjdwidjwidjwihwifheihfeihfe'
+var1_5='dehfuhefihfiwhfiehfiwhdiwhfiehiehf'
+var1_6='efiejfiejfiefjwijsjdkegjeifheifheigehgiehfiehiehgiwdhiwfjeikfj'
+var1_7='efjefijefijefiefjeifjfskjfkjiejfiejfeigjiejiejffjefjeofjeojeg'
+var1_8='efijefiefefjehfjefhjefhejfhejfhekfjekfefhiwkdjekgjekfjkdjg'
+var1_9='efjfjehfhajdhejfhejfhefjehfjehfjehfiefiwwer'
+var1_10='ipwpwdjwijfwiwidifhieghibjad4tj4tje'
+var1_11='kejfeijfiejfidjwijeifjeifjwdijeijwoere8ef'
+var1_12='fefefhjefhejfhjfhejhdhwwjhkehfkhwihef'
+var1_13='rgihrgiehwifheifheifheihiehfiehfwiheifheifhifhwf'
+var1_14='rgiiehgiefhiefheifhiefwidjwijeofjeoje'
+var1_15='efuefhuwfhfhkwdkfskfekfheihefiehfihdkfhehifeifhef'
+var1_16='efiejfiejfiefeifheifhifheifhefeksjfejfiefeif'
+var1_17='fejehfjehiehfiehfiwdhihskfhefhehfiehfeifhskfefheifhe'
+var1_18='rjejfejfhejfhejfhejfhjfjefnjhjehfiehfshfkefkejfiejfisjdoejfoejf'
+var1_19='efjefjhfjehfjhffjhefehfifdhfhfjhjefhjdhfkwhiwhfiehf'
+var1_20='efihefiheifheifhfdjfhjehfejfhejfhfjhiheihfiskhef'
+var1_21='fiefjeifiefiehfeijfeifjeifjeijfeifjeifjeijisjf'
+var1_22='jefjefhjefhejfhwdhifiefhiwdifehf'
+var1_23='rghihrgiehgiehfiejfiejfkjdkjfekfjekjefkje'
+var1_24='efefnekfnekfneknfkdnfkenfkenksnfkef'
+var1_25='feifiefiefjiefjifjeofjwojwofejoejfoe'
+var1_26='ejfghjhejfhehjfhejfhejfheiehfiehiehgie'
+var1_27='frgrhighihirghirfjdfheifhsidhigheifheighifheihsihf'
+var1_28='rfijrgiighefiehfiehfiehfeihfeifhkfkefjjiejeifh'
+var1_29='efiefhiefhiefhwifhishfiehfiehfiehfhfkehfihfeifheifh'
+var1_30='rhefiefiejfiejgirgiefiejjfiejfsojojfoefjeife9t49uigeigeig'
+var1_31='efeifheighiefheihgiefheifheifhefhksfkehfkehef'
+var1_32='efjefnefeijeijfreuru9eu9eueigjdjekgh'
+var1_33='efkefejfiejfijfkefejfejfiejfiejfiejeijffjojfij'
+var1_34='efjefhehfir'
+var1_35='eeireriefieifheifefjehfehfeufheur83ure8fef'
+var1_36='efiehfiefiehfeihfiefhhefdfkefjehfieiwdiefje'
+var1_37='r3refefij4ijetejfeifjeifj49teifer'
+var1_38='rhurkrgjiefjeijeigjeojogjrogjeofjef'
+var1_39='fefbefjejfejfdjhjehfeihfiehfihfiehfihdifheihf'
+var1_40='efhefheiffehfiehfiehfhkdhfefiehfiehfihfefhef'
+var1_41='efeifheifheifheifhwideifjeififhiefhwidwfheifhwifheif'
+var1_42='efjefehfjehjefhefhefhwifhwifheihwiheifheihegiehidwhd'
+var1_43='efefhhehfiehfiereru8eure8fefhejfhef'
+var1_44='efefhefiheifheifhfhefehfeih'
+var1_45='efefjefh'
+var1_46='efeifheifheifheifhdfekf'
+var1_47='efeifheifhwirhw8ru8erueifhefh'
+var1_48='eehreurherherheufhueheufhuehuehfuehfhhuejhwdehrehr'
+var1_49='efuehfuehfuehfuehfwjejffjoefjwojeofjeofj'
+var1_50='feifjeifjeifjeifjwodwofeofjojwojwofjwowofjifheifheihf'
+var1_51='efiejfiejfiejfiejfiefihdiahiehfiehfiehfihdihfiehifehfiehf'
+var1_52='efiejfiejfiejfijifjefiejfiejfiejfiejifdkfjefkejfe'
+var1_53='efeifeifhefhefhjdhfjehfjehfjehfjdhfehfefh'
+var1_54='4t9itoejfiekhfkdfejfheun'
+var1_55='efeifheifiefheifhwidhwidhwihihfiwfh'
+var1_56='efefeifjfjiejfejfowjfowjfoejwojfwojfeof'
+var1_57='efejfiefjeifjifjwjwofjofjeofjef'
+var1_58='rgjeifjeifjifjeifejf'
+var1_59='efeifjiejfiejwowodwofjejf'
+var1_60='efjefehfiwhdiwdhiehfiefhwidwifh'
+var1_61='effhufhefekfekfhekfhefheg'
+var1_62='efeifjefiejfejfkefjekfjdkfjefkejf'
+var1_63='efjefwhdwhefhejfhiehfeifhwiheihhe'
+var1_64='efehfiehfiehfiehfinenhfe'
+var1_65='efiefjiefhiefhiehdsidhrighr'
+print()
+print(var1_1)#ok
+print(var1_2)
+print(var1_3)
+print(var1_4)
+print(var1_5)
+print(var1_6)
+print(var1_7)
+print(var1_8)
+print(var1_9)
+print(var1_10)
+print(var1_11)
+print(var1_12)
+print(var1_13)
+print(var1_14)
+print(var1_15)
+print(var1_16)
+print(var1_17)
+print(var1_18)
+print(var1_19)
+print(var1_20)
+print(var1_21)
+print(var1_22)
+print(var1_23)
+print()#yes a empty string
+print(var1_24)
+print(var1_25)
+print(var1_26)
+print(var1_27)
+print(var1_28)
+print(var1_30)
+print(var1_31)
+print(var1_32)
+print(var1_33)
+print(var1_34)
+print(var1_35)
+print(var1_36)
+print(var1_37)
+print(var1_38)
+print(var1_39)
+print(var1_40)
+print(var1_41)
+print(var1_42)
+print(var1_43)
+print(var1_44)
+print(var1_45)
+print(var1_46)
+print(var1_47)
+print(var1_48)
+print(var1_49)
+print(var1_50)
+print(var1_51)
+print(var1_52)
+print(var1_53)
+print(var1_54)
+print(var1_55)
+print(var1_56)
+print(var1_57)
+print(var1_58)
+print(var1_59)
+print(var1_60)
+print(var1_61)
+print(var1_62)
+print(var1_63)
+print(var1_64)
+print(var1_65)
+
+
+
+
+
+
+
+#####################################################################
+## SECTION: EVEN MORE VARIABLES AND STRINGS
+#####################################################################
+
+
+
+
+
+
+var2_1='yriteifeifeifsifhef'
+var2_2='efeifiefjijfjskfjefiejfe'
+var2_3='fefjeifjeifjeifjsdjkefkfjekfj'
+var2_4='efhefheifhsihefiheifh'
+var2_5='rgjiejgiejfejfoejgeogjeojeogje'
+var2_bonus='rfrgjiejfeifjifjeofjeofjeogjeojgr'
+var2_6='fegrigiefjeifjeifjefjlsfejf'
+var2_7='feifjeifjeifjoefjaodjeofjeofjwofje'
+var2_8='fefeifeifeifeif'
+var2_9='efefeifeifjeifjeigjeif'
+var2_10='efehfehfshfjefjefhejf'
+var2_11='frjrigjeifjeifjwidjwojeofjeifjef'
+var2_12='fefijeifjeifefjefijefjsfjefiejf'
+var2_13='rgrijrigjijdjkgjrgjrg'
+var2_14='feijiejiefjefjjfiejfiejfiejf'
+var2_15='fefkodkfoefoejfofjdojfeofj'
+var2_16='fiejfidjfiejfiejfifjdifjeifjif'
+var2_17='frjgiefjiejfijfiejfiejf'
+var2_18='fiejfeijfsijfiefheifhei'
+var2_19='efoeiehfuehgifheihf'#1000th line of code!!!!!!!
+var2_20='efhefheifheifheifheifhdfehfeifhiefh'
+var2_21='rijgijgijrejfeojfoejfeof'
